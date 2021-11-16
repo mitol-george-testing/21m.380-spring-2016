@@ -1,0 +1,47 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theatrical Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4b88c5a6-9334-7178-d1a9-85b8a6419cc4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Music and Technology: Sound Design",
+  "course_description": "In this course, we will rebuild the everyday sounds of nature, machines, and animals from scratch and encapsulate them in dynamic sound objects which can be embedded into computer games, animations, movies, virtual environments, sound installations, and theatre productions. You will learn how to analyze and model sounds and resynthesize them with the open-source graphical programming environment Pure Data (Pd). Our work will be guided by Andy Farnell's book _Designing Sound_ (MIT Press, 2010). No previous programming experience is required.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.380",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
